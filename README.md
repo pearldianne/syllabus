@@ -1,5 +1,5 @@
 * **Course:** [COE11, USTP CEA]
-* **Instructor:** Jay L. Ginete, [killer.tilapia@gmail.com](mailto:jaypax.ginete@must.edu.org)
+* **Instructor:** Jay L. Ginete, [jaypax.ginete@must.edu.org](mailto:jaypax.ginete@must.edu.org)
 * **Need help?**
    * Look through and create [issues](https://github.com/advanced-js/syllabus/issues)
    * [Email](mailto:jaypax.ginete@must.edu.org) for help, or to set up a time to meet after work hours (5:00PM or later). 
