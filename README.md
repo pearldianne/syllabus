@@ -1,20 +1,21 @@
 * **Course:** [COE11, USTP CEA]
 * **Instructor:** Jay L. Ginete, [killer.tilapia@gmail.com](mailto:jaypax.ginete@must.edu.org)
 * **Need help?**
-   * [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/advanced-js/syllabus?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
-        * It sends message digests to people who aren't active in the room, so feel free to ask a question even if no one's around.
    * Look through and create [issues](https://github.com/advanced-js/syllabus/issues)
-   *  
    * [Email](mailto:jaypax.ginete@must.edu.org) for help, or to set up a time to meet after work hours (5:00PM or later). 
+   * [CDO ITG FB Page](https://www.facebook.com/groups/cdoitg/?ref=bookmarks) Local FB group of devs, tech hobbyist and students
+        * [ITG-JDK Java Dev Knot](https://www.facebook.com/groups/744926728851692/?ref=bookmarks) ITG-X focus group for Java
 
 ## Course Description
 
-Learn best practices in JavaScript in this intensive, five-session course. Topics include data encapsulation, closures, binding, inheritance, and name spacing. Discover some of the lesser-known, yet useful, features of the language, such as how to debug JavaScript problems on different browsers and improve performance. Create interactive webpages using third-party JavaScript libraries.
+This is Object Oriented programming course with Java. Topics include data encapsulation, inheritance and name spacing. Discover some of the lesser-known, yet useful, features of the language, such as how to debug Java problems from the command line.
+
+We will include basic software testing to confirm correctness and behavoir of programs.
 
 Computers are provided in the lab, though you are encouraged to bring a laptop for in-class exercises.
 
 ## Prerequisites
-* Strong computer skills (ie. can locate folders and use a command line)
+* Good computer skills (ie. can locate folders and use a command line)
 * Understanding of variables, data types, control flow, and basic function usage in C
 * Basic knowledge of HTML, and at least basics of CSS
 
