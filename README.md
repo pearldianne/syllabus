@@ -2,7 +2,7 @@
 * **Instructor:** Jay L. Ginete, [killer.tilapia@gmail.com](mailto:jaypax.ginete@must.edu.org)
 * **Need help?**
    * Look through and create [issues](https://github.com/advanced-js/syllabus/issues)
-   * [Email](mailto:jaypax.ginete@must.edu.org) for help, or to set up a time to meet after work hours (5:00PM or later). 
+   * [Email](mailto:jaypax.ginete@must.edu.org) for help, or to set up a time to meet after work hours (5:00PM or later)
    * [CDO ITG FB Page](https://www.facebook.com/groups/cdoitg/?ref=bookmarks) Local FB group of devs, tech hobbyist and students
         * [ITG-JDK Java Dev Knot](https://www.facebook.com/groups/744926728851692/?ref=bookmarks) ITG-X focus group for Java
 
@@ -23,6 +23,8 @@ These won't be enforced by the instructor, but you will be pretty lost without u
 
 Refer to the [beginner material](#beginner-material) for links. 
 
+Refer to [Workflow with Github](#workflow-with-github) if you need help in using git or GitHub.
+
 ## Course Overview
 
 We will be learning how to use object oriented concepts to develop solutions that can be modeled into code. We will try to contrast Python with Java if possible. Topics to be covered are:
@@ -42,11 +44,12 @@ Topics will be demonstrated through live-code examples/slides.  Additional exerc
 
 All assignments are listed within the [Course Outline](#course-outline).
 
-### Workflow
+### Workflow with Github
 
 If you're using GitHub Desktop, these general instructions will help:
 
-* <https://guides.github.com/activities/forking/>
+* <https://guides.github.com/activities/hello-world/>
+* <https://try.github.io/levels/1/challenges/1>
 * <https://help.github.com/desktop/guides/contributing/>
 
 ### Requirements
@@ -136,6 +139,7 @@ Bonus points for:
 * sharing code snippets: [gist.github.com](https://gist.github.com/)
 * alternative to sharing snippets: [hackpad](https://hackpad.com/)
 * asking questions: [Stack Overflow](http://stackoverflow.com/)
+* [Markdown Online Preview](http://markdownlivepreview.com/)
 * Google
 
 ### beginner Material
