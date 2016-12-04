@@ -8,7 +8,7 @@
 
 ## Course Description
 
-This is Object Oriented programming course with Java. Topics include data encapsulation, inheritance and name spacing. Discover some of the lesser-known, yet useful, features of the language, such as how to debug Java problems from the command line.
+This is an Object Oriented programming course with Java. Topics include data encapsulation, inheritance and name spacing. Discover some of the lesser-known, yet useful, features of the language, such as how to debug Java problems from the command line.
 
 We will include basic software testing to confirm correctness and behavoir of programs.
 
