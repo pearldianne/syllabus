@@ -1,5 +1,5 @@
 * **Course:** [COE11, USTP CEA]
-* **Instructor:** Jay L. Ginete, [jaypax.ginete@must.edu.org](mailto:jaypax.ginete@must.edu.org)
+* **Instructor:** Jay L. Ginete, [jaypax.ginete@must.edu.org](mailto:jaypax.ginete@must.edu.edu)
 * **Need help?**
    * Look through and create [issues](https://github.com/advanced-js/syllabus/issues)
    * [Email](mailto:jaypax.ginete@must.edu.org) for help, or to set up a time to meet after work hours (5:00PM or later)
@@ -97,8 +97,8 @@ Bonus points for:
 
 * [Set up your GitHub profile.](https://github.com/settings/profile)
 * [Join the COE11-USTP-CEA org](https://github.com/COE11-USTP-CEA)
-* [Clone student_gpa repo](https://github.com/COE11-USTP-CEA/student_gpa). This work is scored.
-    * Move code into [packages](https://docs.oracle.com/javase/tutorial/java/package/packages.html)
+* [Perform Work1 Assignment](https://classroom.github.com/assignment-invitations/dc7559eb8245a5fd0c783f6458efcfe7)
+    * Work1 Assigned uses the [student_gpa_java](https://github.com/COE11-USTP-CEA/student_gpa_java) repo
 
 ### Class 2 (Dec 12-16)
 
@@ -109,7 +109,7 @@ Bonus points for:
 
 * Perform [Mkyong's TestNG's tutorial](http://www.mkyong.com/tutorials/testng-tutorials/)
     * Do the first 3 tutorials at least
-* Add test to student_gpa repo. This work is scored. (individual submission)
+* Add test to [student_gpa_java](https://github.com/COE11-USTP-CEA/student_gpa_java) repo. This work is scored. (individual submission)
 
 ## Pairing Tips
 
