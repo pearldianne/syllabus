@@ -110,6 +110,7 @@ Bonus points for:
 * Perform [Mkyong's TestNG's tutorial](http://www.mkyong.com/tutorials/testng-tutorials/)
     * Do the first 3 tutorials at least
 * Add test to [student_gpa_java](https://github.com/COE11-USTP-CEA/student_gpa_java) repo. This work is scored. (individual submission)
+* Assignment to follow
 
 ## Pairing Tips
 
