@@ -93,10 +93,22 @@ Bonus points for:
 2. Main Excercise
     * Git basics (with Github)
 
+Note: Due to lack of time, I didn't get to cover other key github concepts like:
+    
+    * Forking
+    * Pushing and pulling from a remote repository (This is related to forking)
+
+    You'll have to learn this on your own. Please refer to the github guides in the [Github](#github) section of this
+    syllabus.
+
 #### Homework
 
 * [Set up your GitHub profile.](https://github.com/settings/profile)
+    * Add a proper picture so I can identify you
+    * Use your real name 
+    * In your Bio should contain you STUDENT ID number
 * [Join the COE11-USTP-CEA org](https://github.com/COE11-USTP-CEA)
+
 * [Perform Work1 Assignment](https://classroom.github.com/assignment-invitations/dc7559eb8245a5fd0c783f6458efcfe7)
     * Work1 Assigned uses the [student_gpa_java](https://github.com/COE11-USTP-CEA/student_gpa_java) repo
 
@@ -157,6 +169,8 @@ Bonus points for:
 * GitHub Pages
     * [Official site](https://pages.github.com/)
     * [Thinkful guide](http://www.thinkful.com/learn/a-guide-to-using-github-pages/)
+* Github guides
+    * [Official site](https://guides.github.com/)
 
 ## Grading
 
