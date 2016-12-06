@@ -110,6 +110,7 @@ You'll have to learn this on your own. Please refer to the github guides in the 
 
 * [Perform Work1 Assignment](https://classroom.github.com/assignment-invitations/dc7559eb8245a5fd0c783f6458efcfe7)
     * Work1 Assigned uses the [student_gpa_java](https://github.com/COE11-USTP-CEA/student_gpa_java) repo
+    * This is a 0 or 10 kind of assignment.
 
 ### Class 2 (Dec 12-16)
 
@@ -121,8 +122,8 @@ You'll have to learn this on your own. Please refer to the github guides in the 
 * Perform [Mkyong's TestNG's tutorial](http://www.mkyong.com/tutorials/testng-tutorials/)
     * Do the first 3 tutorials at least
 * Add test to [student_gpa_java](https://github.com/COE11-USTP-CEA/student_gpa_java) repo. 
-    * Student repos are cloned and test are executed.
-    * This work is scored. 
+    * This work is scored on a 0-10 scale. 
+    * Score is based on results of test and timeliness of submission.
 
 ## Pairing Tips
 
