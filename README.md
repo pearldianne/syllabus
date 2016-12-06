@@ -98,8 +98,7 @@ Note: Due to lack of time, I didn't get to cover other key github concepts like:
     * Forking
     * Pushing and pulling from a remote repository (This is related to forking)
 
-    You'll have to learn this on your own. Please refer to the github guides in the [Github](#github) section of this
-    syllabus.
+You'll have to learn this on your own. Please refer to the github guides in the [Github](#github) section of this syllabus.
 
 #### Homework
 
