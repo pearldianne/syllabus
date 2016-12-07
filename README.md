@@ -2,7 +2,7 @@
 * **Instructor:** Jay L. Ginete, [jaypax.ginete@must.edu.ph](mailto:jaypax.ginete@must.edu.ph)
 * **Need help?**
    * Look through and create [issues](https://github.com/advanced-js/syllabus/issues)
-   * [Email](mailto:jaypax.ginete@must.edu.org) for help, or to set up a time to meet after work hours (5:00PM or later)
+   * [Email](mailto:jaypax.ginete@must.edu.ph) for help, or to set up a time to meet after work hours (5:00PM or later)
    * [CDO ITG FB Page](https://www.facebook.com/groups/cdoitg/?ref=bookmarks) Local FB group of devs, tech hobbyist and students
         * [ITG-JDK Java Dev Knot](https://www.facebook.com/groups/744926728851692/?ref=bookmarks) ITG-X focus group for Java
 
